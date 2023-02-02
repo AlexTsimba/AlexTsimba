@@ -1,4 +1,5 @@
 ![header](https://raw.githubusercontent.com/AlexTsimba/AlexTsimba/main/header.png)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D7F2FF&repeat=false&width=600&lines=Front-end+developer+from+Ukraine;Addicted+to+create+eye-catching+interfaces;Always+up+for+challenging+tasks)](https://git.io/typing-svg)
 
 
