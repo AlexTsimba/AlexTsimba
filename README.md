@@ -2,7 +2,7 @@
 
 ## 👨‍💻 I am
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=24&duration=1500&color=488BE4&background=41314E00&vCenter=true&multiline=true&repeat=false&width=1200&height=120&lines=Front-end+developer+from+Ukraine;With+an+education+background+in+Computer+Science+and+one+year+of+practice;Addicted+to+create+eye-catching+interfaces;Always+up+for+challenging+tasks!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=24&duration=1500&color=488BE4&background=41314E00&vCenter=true&multiline=true&repeat=false&width=1200&height=130&lines=Front-end+developer+from+Ukraine;With+an+education+background+in+Computer+Science+and+one+year+of+practice;Addicted+to+creating+eye-catching+interfaces;Always+up+for+challenging+tasks!)](https://git.io/typing-svg)
 
 ## ⚡ Technologies 
 
