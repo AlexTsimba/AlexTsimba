@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=24&duration=1500&color=488BE4&background=41314E00&vCenter=true&multiline=true&repeat=false&width=1200&height=130&lines=Front-end+developer+from+Ukraine;With+an+education+background+in+Computer+Science+and+one+year+of+practice;Addicted+to+creating+eye-catching+interfaces;Always+up+for+challenging+tasks!)](https://git.io/typing-svg)
 
-## ⚡ Technologies 
+## ⚙️ Technologies 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
