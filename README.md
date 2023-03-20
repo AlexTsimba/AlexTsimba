@@ -1,4 +1,4 @@
-![header](https://github.com/AlexTsimba/AlexTsimba/blob/main/Header.png)
+![readme-header](https://user-images.githubusercontent.com/47917765/226302719-51b05245-c365-4c25-b0b5-132f1363eae1.png)
 
 ## 👨‍💻 I am
 
